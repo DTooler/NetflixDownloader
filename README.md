@@ -48,12 +48,12 @@ NetflixDownloader --batch-file urls.txt
 
 # 指定視頻品質
 NetflixDownloader --quality 1080p --url "https://www.netflix.com/watch/123456"
+```
 
 ---
 
 ## 聯絡方式
 
----
+如需了解更多詳細情況或其他內容或做調整，歡迎透過 Telegram 聯絡我：[@Ddmm969](https://t.me/Ddmm969)
 
-如需了解更多詳細情況，歡迎透過 Telegram 聯絡我：@Ddmm969
-如果還需要我幫你加其他內容或做調整，隨時告訴我！
+---
